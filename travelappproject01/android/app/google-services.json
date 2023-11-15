@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "432862352925",
+    "project_id": "travelappproject01",
+    "storage_bucket": "travelappproject01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432862352925:android:1a3bc2f1415414d91e58f4",
+        "android_client_info": {
+          "package_name": "travelapp_Project01.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432862352925-s5f81rqg8lu8nsti09p44cnlnlf795hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "travelapp_Project01.flutter",
+            "certificate_hash": "b79354f9d76966a2c41719b6ac72c1b5a4931fd4"
+          }
+        },
+        {
+          "client_id": "432862352925-4trsh4k2hpagepvsdf8k7olhm5nvosvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4bJyoR67S6vzueaIiIkQACxq-kLwDI5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432862352925-4trsh4k2hpagepvsdf8k7olhm5nvosvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
